@@ -1,0 +1,1 @@
+This project is from the odin project, and will have me create a basic HTML recipe site. I will use skills like html coding, and git.
